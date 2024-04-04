@@ -1,0 +1,2 @@
+[config]
+excludeDirs = node_modules, .angular, .vscode
